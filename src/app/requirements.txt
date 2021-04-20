@@ -13,7 +13,7 @@ MarkupSafe==1.1.1
 more-itertools==7.0.0
 pkg-resources==0.0.0
 pluggy==0.9.0
-py==1.8.0
+py==1.10.0
 pycparser==2.19
 PyMySQL==0.9.3
 pytest==4.4.0
